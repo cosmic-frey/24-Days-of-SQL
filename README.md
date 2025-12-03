@@ -13,6 +13,13 @@ Every year, the city of Whoville conducts a Reindeer Run to find the best reinde
 
 ## Day 2:  
 Santa wants to analyze which toys that were produced in his workshop have already been delivered to children. You are given two tables on toy production and toy delivery — can you return the toy_id of the toys that have been delivered?
-
-
-## Day 3:
+### Output toy_id and corresponding toy_name:
+- 1 = Robot Dog
+- 3 = Building Blocks
+- 5 = Race Car
+- 7 = Train Set
+- 8 = Action Figure
+- 10 = Stuffed Elephant
+- 12 = Art Set
+       
+  ## Day 3:
